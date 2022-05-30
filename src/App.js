@@ -1,10 +1,8 @@
-import React from 'react';
-import Navbar from './Navbar'
+import React from "react";
+import HamburgerNav from "./HamburgerNav";
 
 function App() {
-  return (
-      <Navbar />
-  );
+  return <HamburgerNav />;
 }
 
 export default App;
