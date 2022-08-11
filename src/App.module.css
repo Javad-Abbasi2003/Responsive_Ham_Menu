@@ -1,0 +1,9 @@
+.header {
+  margin: 70px 30px;
+  color: red
+}
+@media (max-width: 768px) {
+  .header {
+    display: none;
+  }
+}
